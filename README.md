@@ -14,29 +14,20 @@ Data Filtering:
 3.	Total Sales Quantity = 0
  
 Correlation Analysis
-![image alt]() 
+![image alt](https://github.com/itishaagrawal9/Exploratory-Data-Analysis/blob/master/correlation.png?raw=true) 
 Analysis:
 1.	Strong positive correlation between Purchase Quantity and Sales Quantity (1.00), suggesting very efficient stock management
 2.	Negative correlation between Sales Dollar and Profit Margin (-0.12), with Sales Price increasing and profit margin decreasing
  
 Findings across the business problems
- 
+![image_alt](https://github.com/itishaagrawal9/Exploratory-Data-Analysis/blob/master/Findind%20across%20business%20problem%20(3).png?raw=true) 
 198 brands showed higher profit margins but lower sales. Thus, a need for high promotional activities for these brands to improve sales
- 
+![image_alt](https://github.com/itishaagrawal9/Exploratory-Data-Analysis/blob/master/scatter-198%20brands.png?raw=true) 
 Top Vendors contributing to the purchases
-
-
-
-
-
-
-
-
-
-
+![image_alt](https://github.com/itishaagrawal9/Exploratory-Data-Analysis/blob/master/Top%20Vendors%20contribution.png?raw=true)
 Top 10 vendors have contributed to high revenue, since profit generated from the same are high
 Order Size from the Volume
- 
+![image_alt](https://github.com/itishaagrawal9/Exploratory-Data-Analysis/blob/master/order%20size%20volume.png?raw=true) 
 Analysis:
 1.	It is clearly visible that the organization will benefit from the bulk purchases from the vendors
 2.	Purchases in small quantities are not economical for generating revenue

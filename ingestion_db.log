@@ -1,0 +1,331 @@
+2025-11-03 14:56:27,191 - INFO - Ingesting purchases.csv into db
+2025-11-03 14:57:04,172 - INFO - Ingesting purchases.csv into db
+2025-11-03 14:57:32,358 - INFO - Ingesting purchases.csv into db
+2025-11-03 14:57:40,396 - INFO - Ingesting purchase_prices.csv into db
+2025-11-03 14:57:42,510 - INFO - Ingesting sales.csv into db
+2025-11-03 15:04:44,607 - INFO - Ingesting purchases.csv into db
+2025-11-03 15:05:14,061 - INFO - Ingesting purchases.csv into db
+2025-11-03 15:05:43,791 - INFO - Ingesting purchases.csv into db
+2025-11-03 15:05:54,646 - INFO - Ingesting purchase_prices.csv into db
+2025-11-03 15:05:57,468 - INFO - Ingesting sales.csv into db
+2025-11-03 16:17:09,142 - INFO - Ingesting purchases.csv into db
+2025-11-03 16:18:05,440 - INFO - Ingesting purchases.csv into db
+2025-11-03 16:18:32,603 - INFO - Ingesting purchases.csv into db
+2025-11-03 16:18:40,615 - INFO - Ingesting purchase_prices.csv into db
+2025-11-03 16:18:42,947 - INFO - Ingesting sales.csv into db
+2025-11-03 16:39:08,280 - INFO - Ingesting purchases.csv into db
+2025-11-03 16:39:44,355 - INFO - Ingesting purchases.csv into db
+2025-11-03 16:40:12,621 - INFO - Ingesting purchases.csv into db
+2025-11-03 16:40:21,152 - INFO - Ingesting purchase_prices.csv into db
+2025-11-03 16:40:23,594 - INFO - Ingesting sales.csv into db
+2025-11-03 16:43:33,908 - INFO - Starting ingestion for purchases.csv
+2025-11-03 16:43:37,186 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:43:42,171 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:43:45,087 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:43:47,811 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:43:50,861 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:43:54,141 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:43:57,118 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:00,280 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:03,429 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:06,608 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:09,572 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:12,584 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:15,610 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:18,577 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:21,757 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:25,023 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:28,002 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:31,054 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:34,362 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:37,427 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:40,370 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:43,945 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:46,709 - INFO - \u2705 Inserted 100000 rows into purchases
+2025-11-03 16:44:48,915 - INFO - \u2705 Inserted 72474 rows into purchases
+2025-11-03 16:44:48,916 - INFO - Starting ingestion for purchase_prices.csv
+2025-11-03 16:44:49,250 - INFO - \u2705 Inserted 12261 rows into purchase_prices
+2025-11-03 16:44:49,250 - INFO - Starting ingestion for sales.csv
+2025-11-03 16:44:52,124 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:44:54,737 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:44:57,379 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:00,751 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:04,092 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:06,879 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:09,572 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:12,268 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:15,291 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:18,379 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:21,287 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:24,258 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:27,522 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:30,378 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:33,546 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:36,645 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:39,656 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:42,871 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:45,893 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:48,593 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:52,169 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:55,086 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:45:57,911 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:00,859 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:03,568 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:06,411 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:09,390 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:11,958 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:14,598 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:17,585 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:20,960 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:24,025 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:26,725 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:29,655 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:32,498 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:35,250 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:38,121 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:41,829 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:44,958 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:47,946 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:50,847 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:53,904 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:56,775 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:46:59,934 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:03,045 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:06,044 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:09,148 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:12,129 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:14,945 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:17,923 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:20,580 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:23,196 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:26,193 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:29,380 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:32,313 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:35,513 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:38,528 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:41,366 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:44,180 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:46,838 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:49,804 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:52,482 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:55,222 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:47:57,944 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:00,752 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:03,388 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:06,553 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:09,398 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:12,193 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:14,810 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:17,500 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:20,547 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:23,293 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:26,266 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:29,265 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:32,471 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:35,788 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:39,041 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:41,935 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:44,921 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:47,795 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:50,600 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:53,423 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:56,499 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:48:59,267 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:02,336 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:05,260 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:08,110 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:11,429 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:14,846 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:17,868 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:21,295 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:24,374 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:27,333 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:30,914 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:34,073 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:36,806 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:39,564 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:42,322 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:45,001 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:48,117 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:51,394 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:54,383 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:57,165 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:49:59,931 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:02,762 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:05,917 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:08,944 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:11,821 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:14,590 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:17,480 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:20,370 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:23,784 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:26,664 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:29,652 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:32,528 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:35,304 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:37,907 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:40,977 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:44,179 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:47,428 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:50,408 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:53,435 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:56,522 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:50:59,407 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:51:02,143 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:51:04,908 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:51:07,601 - INFO - \u2705 Inserted 100000 rows into sales
+2025-11-03 16:51:08,365 - INFO - \u2705 Inserted 25363 rows into sales
+2025-11-03 16:51:08,366 - INFO - Starting ingestion for vendor_invoice.csv
+2025-11-03 16:51:09,038 - INFO - \u2705 Inserted 5543 rows into vendor_invoice
+2025-11-03 16:51:09,039 - INFO - -----------\u2705 Ingestion Complete----------
+2025-11-03 16:51:09,040 - INFO - Total Time Taken: 7.59 minutes
+2025-11-03 22:48:19,592 - INFO - Starting ingestion for purchases.csv
+2025-11-03 22:48:20,073 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:20,502 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:20,948 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:21,486 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:21,887 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:22,375 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:22,919 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:23,346 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:23,814 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:24,274 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:24,822 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:25,289 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:25,796 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:26,239 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:26,668 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:27,092 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:27,694 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:28,145 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:28,597 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:29,001 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:29,549 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:30,013 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:30,518 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:30,912 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchases'. Missing in DB: {'ReceivingDate', 'InvoiceDate', 'Store', 'VendorName', 'PONumber', 'PurchasePrice', 'Size', 'InventoryId', 'VendorNumber', 'Brand', 'PayDate', 'Classification', 'PODate', 'Description', 'Quantity', 'Dollars'}
+2025-11-03 22:48:30,916 - INFO - Starting ingestion for purchase_prices.csv
+2025-11-03 22:48:31,001 - ERROR - \u26a0\ufe0f Column mismatch for table 'purchase_prices'. Missing in DB: {'Classification', 'Price', 'VendorNumber', 'Volume', 'PurchasePrice', 'Description', 'VendorName', 'Size', 'Brand'}
+2025-11-03 22:48:31,002 - INFO - Starting ingestion for sales.csv
+2025-11-03 22:48:31,465 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:31,881 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:32,216 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:32,593 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:32,972 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:33,330 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:33,815 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:34,129 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:34,422 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:34,799 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:35,312 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:35,721 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:36,058 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:36,466 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:36,845 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:37,157 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:37,482 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:37,831 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:38,175 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:38,495 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:38,830 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:39,156 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:39,548 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:39,929 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:40,287 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:40,607 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:41,008 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:41,360 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:41,712 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:42,029 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:42,392 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:42,811 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:43,203 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:43,564 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:43,942 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:48:44,330 - ERROR - \u26a0\ufe0f Column mismatch for table 'sales'. Missing in DB: {'Classification', 'VendorNumber', 'Volume', 'Store', 'Description', 'SalesPrice', 'SalesDate', 'VendorName', 'Size', 'SalesQuantity', 'InventoryId', 'ExciseTax', 'SalesDollars', 'Brand'}
+2025-11-03 22:49:11,446 - INFO - Ingesting purchases.csv into db
+2025-11-03 22:49:47,779 - INFO - Ingesting purchases.csv into db
+2025-11-03 22:50:35,226 - INFO - Ingesting purchases.csv into db
+2025-11-03 22:50:45,835 - INFO - Ingesting purchase_prices.csv into db
+2025-11-03 22:50:48,404 - INFO - Ingesting sales.csv into db
+2025-11-03 22:51:20,455 - INFO - Ingesting sales.csv into db
+2025-11-03 22:51:52,246 - INFO - Ingesting sales.csv into db
+2025-11-03 22:52:23,957 - INFO - Ingesting sales.csv into db
+2025-11-03 22:52:57,895 - INFO - Ingesting sales.csv into db
+2025-11-03 22:53:40,204 - INFO - Ingesting sales.csv into db
+2025-11-03 22:54:14,143 - INFO - Ingesting sales.csv into db
+2025-11-03 22:54:47,358 - INFO - Ingesting sales.csv into db
+2025-11-03 22:55:20,254 - INFO - Ingesting sales.csv into db
+2025-11-03 22:55:49,755 - INFO - Ingesting sales.csv into db
+2025-11-03 22:56:14,735 - INFO - Ingesting sales.csv into db
+2025-11-03 22:56:38,631 - INFO - Ingesting sales.csv into db
+2025-11-03 22:57:03,071 - INFO - Ingesting sales.csv into db
+2025-11-03 22:57:21,348 - INFO - Ingesting vendor_invoice.csv into db
+2025-11-03 22:57:21,630 - INFO - -----------Ingestion Complete----------
+2025-11-03 22:57:21,630 - INFO - Total Time Taken: 8.23 minutes
+2025-11-03 23:18:50,715 - INFO - Creating Vendor Summary Table......
+2025-11-03 23:22:09,969 - INFO - Creating Vendor Summary Table......
+2025-11-03 23:22:43,874 - INFO -    vendornumber                   vendorname  brand              description  \
+0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black   
+1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC      4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC      3545          Ketel One Vodka   
+
+   purchaseprice  ActualPrice volume  TotalPurchaseQuantity  \
+0          26.27        36.99   1750                 145080   
+1          23.19        28.99   1750                 164038   
+2          18.24        24.99   1750                 187407   
+3          16.17        22.99   1750                 201682   
+4          21.89        29.99   1750                 138109   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0         5101919.51   
+1            3804041.22            160247.0         4819073.49   
+2            3418303.68            187140.0         4538120.60   
+3            3261197.94            200412.0         4475972.88   
+4            3023206.01            135838.0         4223107.62   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  
+0        672819.31       260999.20     68601.68  
+1        561512.37       294438.66    144929.24  
+2        461140.15       343854.07    123780.22  
+3        420050.01       368242.80    257032.07  
+4        545778.28       249587.83    257032.07  
+2025-11-03 23:22:43,883 - INFO - Cleaning Data.....
+2025-11-03 23:22:43,899 - INFO -    vendornumber                vendorname  brand              description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   purchaseprice  ActualPrice  volume  TotalPurchaseQuantity  \
+0          26.27        36.99  1750.0                 145080   
+1          23.19        28.99  1750.0                 164038   
+2          18.24        24.99  1750.0                 187407   
+3          16.17        22.99  1750.0                 201682   
+4          21.89        29.99  1750.0                 138109   
+
+   TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  \
+0            3811251.60            142049.0         5101919.51   
+1            3804041.22            160247.0         4819073.49   
+2            3418303.68            187140.0         4538120.60   
+3            3261197.94            200412.0         4475972.88   
+4            3023206.01            135838.0         4223107.62   
+
+   TotalSalesPrice  TotalExciseTax  FreightCost  Gross Profit  Profit Margin  \
+0        672819.31       260999.20     68601.68    1290667.91      25.297693   
+1        561512.37       294438.66    144929.24    1015032.27      21.062810   
+2        461140.15       343854.07    123780.22    1119816.92      24.675786   
+3        420050.01       368242.80    257032.07    1214774.94      27.139908   
+4        545778.28       249587.83    257032.07    1199901.61      28.412764   
+
+   StockTurnOver  SalesToPurchaseRatio  
+0       0.979108              1.338647  
+1       0.976890              1.266830  
+2       0.998575              1.327594  
+3       0.993703              1.372493  
+4       0.983556              1.396897  
+2025-11-03 23:22:43,906 - INFO - Ingesting Data....
+2025-11-03 23:22:44,703 - INFO - Completed

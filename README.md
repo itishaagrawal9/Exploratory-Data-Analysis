@@ -1,10 +1,11 @@
 Exploratory Data Analysis (EDA)
 Summary Statistics
 ![image alt](https://github.com/itishaagrawal9/Exploratory-Data-Analysis/blob/master/stats.png?raw=true)
+
 Analysis:
-Profit Margin = Min of –infinity suggesting areas where revenue is zero/ lower than the total cost
-Gross Profit = -52000 high losses, i.e., selling products at lower prices than purchase cost
-Total Sales Quantity = 0 suggesting that the products were purchased but were not sold (could be due to past year’s unsold inventory-obsolete stock)
+1. Profit Margin = Min of –infinity suggesting areas where revenue is zero/ lower than the total cost
+2. Gross Profit = -52000 high losses, i.e., selling products at lower prices than purchase cost
+3. Total Sales Quantity = 0 suggesting that the products were purchased but were not sold (could be due to past year’s unsold inventory-obsolete stock)
 
 After analyzing the data’s description, the next steps lies in data filtering:
 Data Filtering:

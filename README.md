@@ -14,7 +14,7 @@ Data Filtering:
 3.	Total Sales Quantity = 0
  
 Correlation Analysis
- 
+![image alt]() 
 Analysis:
 1.	Strong positive correlation between Purchase Quantity and Sales Quantity (1.00), suggesting very efficient stock management
 2.	Negative correlation between Sales Dollar and Profit Margin (-0.12), with Sales Price increasing and profit margin decreasing
